@@ -1,0 +1,9 @@
+Welcome to Pizza Recipe:
+
+1. Prepare the dough
+2. Prepare the Pizza base
+3. Cut the veggies
+4. Spread the sauce and vegetables
+5. Bake in the oven for around 10-12 mins
+
+Thanks
